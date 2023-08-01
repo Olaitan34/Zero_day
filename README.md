@@ -1,0 +1,1 @@
+my first repository welcome to my first repository as a full-stack engineer! this is an exciting start to my journey in programming amd version control. i'll be sharing my project and learning experiences here. stay tuned for more updates! 
